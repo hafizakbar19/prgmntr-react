@@ -11,8 +11,8 @@ function Lists() {
         },
         {
             sName: 'Noor',
-            age: 35,
-            sex: 'male'
+            age: 30,
+            sex: 'female'
         },
         {
             sName: "Faiya",
