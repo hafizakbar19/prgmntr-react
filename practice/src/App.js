@@ -3,6 +3,7 @@ import './App.css';
 import BsComponent from './components/BsComponent';
 import Buttons from './components/Buttons';
 import Lists from './components/Lists';
+import USComponent from './components/USComponent';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Buttons  data="data is being passed form props" />
       <Lists />
       <BsComponent />
+      <USComponent />
     </div>
   );
 }
